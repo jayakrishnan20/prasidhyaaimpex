@@ -2605,7 +2605,7 @@ header.style2 .header-content {
 
 
 .pager-sec {
-	background-image: url(../images/pager-bg.png);
+	background-image: url(../img/pager-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 205px 0 280px;
@@ -2634,7 +2634,7 @@ header.style2 .header-content {
 	padding: 0 13px;
 }
 .pages-list li:before {
-	content: '\f101';
+	content: '>';
 	position: absolute;
 	top: 0;
 	right: -7px;
@@ -2884,7 +2884,7 @@ header.style2 .header-content {
 	margin-bottom: 29px;
 }
 .blog_page .blog-item .blog-info p {
-	margin-bottom: 40px;
+	margin-bottom: 10px;
 }
 .blog_page .meta {
 	margin-bottom: 21px;
