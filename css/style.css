@@ -2705,7 +2705,7 @@ header.style2 .header-content {
 	display: block;
 }
 .svs-list li a:before {
-	content: '\f061';
+	content: '>';
 	position: absolute;
 	top: 0;
 	right: 30px;
